@@ -22,9 +22,9 @@ Skeleton created above image
 # Installation
 
 - clone repository
-
+```
     git clone https://github.com/quanhua92/human-pose-estimation-opencv
-
+```
 - download input image
 download input image
 and save image file to [human-pose-estimation-opencv] 
