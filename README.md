@@ -34,5 +34,9 @@ and save image file to [human-pose-estimation-opencv]
 ```
     python openpose.py --input [input image file name]
 ```
+- test with webcam
+```
+    python openpose.py
+```
 
 # Presentation
