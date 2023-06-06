@@ -21,7 +21,8 @@ Skeleton created above image
 1.threshold(임계값)
 
 각각 감지된 키포인트에 대해 신뢰도 점수를 구하고 임계값보다 큰 키포인트 감지만 유효로 간주됩니다.
-
+![0 2](https://github.com/wooheon00/opensw23-team_CWH/assets/127184013/8e7dddef-89f5-42a9-a3cb-ef7fb3ce418a)
+![0 5](https://github.com/wooheon00/opensw23-team_CWH/assets/127184013/7b4649f5-a886-45cc-a518-07e889dac727)
 
 
 
