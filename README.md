@@ -1,7 +1,7 @@
 # opensw23-team_CWH
 오픈소스SW  deep learning 프로젝트
 
-•Team Introduction
+# Team Introduction
  202011381 최우헌 / ID: wooheon00
 
 •Topic Introduction
