@@ -1,8 +1,12 @@
 # opensw23-team_CWH
 오픈소스SW  deep learning 프로젝트
 
+
+
 # Team Introduction
  202011381 최우헌 / ID: wooheon00
+
+
 
 # Topic Introduction
   
@@ -11,9 +15,13 @@ human-pose-estimation-opencv
 Recognize each body part of the person in the image.
 Each part is connected by a skeleton.
 
+
+
 # Results
 Skeleton created above image
 ![output](https://github.com/wooheon00/opensw23-team_CWH/assets/127184013/3917f565-e24c-49ca-a419-04cacd9081aa)
+
+
 
 
 # Analysis/Visualization
@@ -29,6 +37,8 @@ Skeleton created above image
 좌(--thr 0.2)  우(--thr 0.5)
 
 같은 사진이지만 임계값을 어떻게 설정하느냐에 결과가 다르게 나옵니다.
+
+
 
 # Installation
 
