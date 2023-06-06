@@ -18,6 +18,11 @@ Skeleton created above image
 
 # Analysis/Visualization
 
+1.threshold(임계값)
+
+각각 감지된 키포인트에 대해 신뢰도 점수를 구하고 임계값보다 큰 키포인트 감지만 유효로 간주됩니다.
+
+
 
 
 # Installation
