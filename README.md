@@ -4,22 +4,22 @@
 # Team Introduction
  202011381 최우헌 / ID: wooheon00
 
-•Topic Introduction
+# Topic Introduction
   
 human-pose-estimation-opencv
 
 Recognize each body part of the person in the image.
 Each part is connected by a skeleton.
 
-•Results
+# Results
 Skeleton created above image
 
 
-•Analysis/Visualization
+# Analysis/Visualization
 
 
 
-•Installation
+# Installation
 
 - clone repository
 git clone https://github.com/quanhua92/human-pose-estimation-opencv
@@ -32,4 +32,4 @@ and save image file to [human-pose-estimation-opencv]
 python openpose.py --input [input image file name]
 
 
-•Presentation
+# Presentation
