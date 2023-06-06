@@ -13,6 +13,7 @@ Each part is connected by a skeleton.
 
 # Results
 Skeleton created above image
+![output](https://github.com/wooheon00/opensw23-team_CWH/assets/127184013/3917f565-e24c-49ca-a419-04cacd9081aa)
 
 
 # Analysis/Visualization
