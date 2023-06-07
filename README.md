@@ -39,6 +39,11 @@ Skeleton created above image
 같은 사진이지만 임계값을 어떻게 설정하느냐에 결과가 다르게 나옵니다.
 
 
+2. 일부 신체가 가려진 사진
+
+감지하지 못합니다.
+
+
 
 # Installation
 
