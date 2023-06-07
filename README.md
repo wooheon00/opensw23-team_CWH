@@ -26,7 +26,7 @@ Skeleton created above image
 
 # Analysis/Visualization
 
-1.threshold(임계값)
+**1.threshold(임계값)**
 
 각각 감지된 키포인트에 대해 신뢰도 점수를 구하고 임계값보다 큰 키포인트 감지만 유효로 간주됩니다.
 
@@ -39,7 +39,7 @@ Skeleton created above image
 같은 사진이지만 임계값을 어떻게 설정하느냐에 결과가 다르게 나옵니다.
 
 
-2. 일부 신체가 가려진 사진
+**2.일부 신체가 가려진 사진**
 
 감지하지 못합니다.
 
