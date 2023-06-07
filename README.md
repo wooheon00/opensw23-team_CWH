@@ -46,6 +46,8 @@ Skeleton created above image
 ![back](https://github.com/wooheon00/opensw23-team_CWH/assets/127184013/b71789dc-5d75-45ab-834e-8cd3b20f2526)
 뒷모습에 얼굴이 나오지 않아 얼굴만 감지하지 못함
 
+![side](https://github.com/wooheon00/opensw23-team_CWH/assets/127184013/6c313f3c-4896-4e4b-8ee6-519ce6399714)
+왼쪽 팔과 
 
 
 
