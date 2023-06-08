@@ -62,6 +62,8 @@ Skeleton created above image
 
 # Installation
 
+- window, python 3.11 인 환경에서 실행 함
+
 - clone repository
 ```
     git clone https://github.com/quanhua92/human-pose-estimation-opencv
